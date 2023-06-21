@@ -28,4 +28,9 @@
 - Span ve Div
 - Class ve Id 
 - Sayfa içerisinde link verme : #id 
-- Form ve Input elementleri (form verilerini bir text dosyasına dönüştüren js kodları verilebilir)
+- Form ve Input elementleri (form verilerini bir text dosyasına dönüştüren js kodları verilebilir)https://www.w3schools.com/html/html_forms.asp
+
+## 4- CSS 1
+- CSS nedir ?
+- Kullanma yöntemleri (inline, header sytle etiketi, css dosyası)
+- Elementleri seçme
