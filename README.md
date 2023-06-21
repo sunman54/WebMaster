@@ -6,7 +6,7 @@
 - İnternet nedir, nasıl icat edildi ve yaygınlaştı ? (icatlar atölyesindeki internet sunumu)
 - Web sitesi nasıl çalışır, tarayıcı kodları nasıl gösterir ? 
 
-## 2- HTML 
+## 2- HTML 1
 - HTML nedir ? 
 - İlk Web sitesi : http://info.cern.ch/hypertext/WWW/TheProject.html
 - Geliştirici araçları ve sitenin editlenebilmesi
@@ -22,3 +22,10 @@
 - HTML tabloları https://www.w3schools.com/html/html_tables.asp
 - Listeler (iç içe listeler) https://www.w3schools.com/html/html_lists.asp
 - Video etiketi https://www.w3schools.com/html/html5_video.asp
+
+## 3- HTML 2 
+- Block ve Inline elemetler
+- Span ve Div
+- Class ve Id 
+- Sayfa içerisinde link verme : #id 
+- Form ve Input elementleri (form verilerini bir text dosyasına dönüştüren js kodları verilebilir)
