@@ -9,4 +9,12 @@
 ## 2- HTML 
 - HTML nedir ? 
 - İlk Web sitesi : http://info.cern.ch/hypertext/WWW/TheProject.html
-- 
+- Geliştirici araçları ve sitenin editlenebilmesi
+- HTML dosyalarının düzeni (head - body ....)
+- HTML dosyası oluşturma ve live server ile görüntüleme (live server eklentisinin görevi)
+- Meta etikletleri ve yorum satırları
+- Başlık etiketleri H1 H2 ...
+- Paragraf etiketi ve lorem ipsum ...
+- Inline CSS ile stillendirme (color, background, font-size)
+- HTML formatmala etiketleri (strong, em, mark, small, *pre*) https://www.w3schools.com/html/html_formatting.asp
+- HTML link verme (html dosyalarına ve web sitelerine) (<a> etiketi) https://www.w3schools.com/html/html_links.asp
