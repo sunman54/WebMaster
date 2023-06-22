@@ -34,3 +34,5 @@
 - CSS nedir ?
 - Kullanma yöntemleri (inline, header sytle etiketi, css dosyası)
 - Elementleri seçme
+- CSS hiyerarşisi (important anahtarı)
+- width, height, color, background(color-image) ... elementleri 
