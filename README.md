@@ -1,10 +1,10 @@
 # WebMaster
 
 ## 1- Giriş
-- VsCode ve eklentilerin kurulumu
-- *live server* , *HTML CSS Support* , *Auto Rename Tag* , *Prettier - Code formatter*
-- İnternet nedir, nasıl icat edildi ve yaygınlaştı ? (icatlar atölyesindeki internet sunumu)
-- Web sitesi nasıl çalışır, tarayıcı kodları nasıl gösterir ? 
+- [] VsCode ve eklentilerin kurulumu
+- [] *live server* , *HTML CSS Support* , *Auto Rename Tag* , *Prettier - Code formatter*
+- [] İnternet nedir, nasıl icat edildi ve yaygınlaştı ? (icatlar atölyesindeki internet sunumu)
+- [] Web sitesi nasıl çalışır, tarayıcı kodları nasıl gösterir ? 
 
 ## 2- HTML 1
 - HTML nedir ? 
@@ -15,6 +15,7 @@
 - Meta etikletleri ve yorum satırları
 - Başlık etiketleri H1 H2 ...
 - Paragraf etiketi ve lorem ipsum ...
+- RGB nedir ? 
 - Inline CSS ile stillendirme (color, background, font-size)
 - HTML formatmala etiketleri (strong, em, mark, small, *pre*) https://www.w3schools.com/html/html_formatting.asp
 - HTML link verme (html dosyalarına ve web sitelerine) (<a> etiketi) https://www.w3schools.com/html/html_links.asp
