@@ -1,12 +1,10 @@
 # WebMaster
 
-## https://form.jotform.com/231735440388055
-
 ## 1- Giriş
-- [ ] VsCode ve eklentilerin kurulumu
-- [ ] *live server* , *HTML CSS Support* , *Auto Rename Tag* , *Prettier - Code formatter*
 - [ ] İnternet nedir, nasıl icat edildi ve yaygınlaştı ? (icatlar atölyesindeki internet sunumu)
 - [ ] Web sitesi nasıl çalışır, tarayıcı kodları nasıl gösterir ? 
+- [ ] VsCode ve eklentilerin kurulumu
+- [ ] *live server* , *HTML CSS Support* , *Auto Rename Tag* , *Prettier - Code formatter*
 
 ## 2- HTML 1
 - [ ] HTML nedir ? 
