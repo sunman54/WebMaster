@@ -1,10 +1,10 @@
 # WebMaster
 
 ## 1- Giriş
-- [ ] İnternet nedir, nasıl icat edildi ve yaygınlaştı ? (icatlar atölyesindeki internet sunumu)
-- [ ] Web sitesi nasıl çalışır, tarayıcı kodları nasıl gösterir ? 
-- [ ] VsCode ve eklentilerin kurulumu
-- [ ] *live server* , *HTML CSS Support* , *Auto Rename Tag* , *Prettier - Code formatter*
+- [x] İnternet nedir, nasıl icat edildi ve yaygınlaştı ? (icatlar atölyesindeki internet sunumu)
+- [x] Web sitesi nasıl çalışır, tarayıcı kodları nasıl gösterir ? 
+- [x] VsCode ve eklentilerin kurulumu
+- [x] *live server* , *HTML CSS Support* , *Auto Rename Tag* , *Prettier - Code formatter*
 
 ## 2- HTML 1
 - [ ] HTML nedir ? 
