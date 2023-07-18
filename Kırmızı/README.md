@@ -1,5 +1,5 @@
 # WebMaster
-12.07.2023
+12.07.2023 - Çarşamba 21-30
 
 ## 1- Giriş
 - [x] İnternet nedir, nasıl icat edildi ve yaygınlaştı ? (icatlar atölyesindeki internet sunumu)
