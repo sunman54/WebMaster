@@ -16,10 +16,10 @@
 - [x] Meta etikletleri ve yorum satırları
 - [x] Başlık etiketleri H1 H2 ...
 - [x] Paragraf etiketi ve lorem ipsum ...
-- [ ] RGB nedir ?
-- [ ] Color picker kullanımı
-- [ ] Renk paleti kullanımı https://colorhunt.co/
-- [ ] Inline CSS ile stillendirme (color, background, font-size)
+- [x] RGB nedir ?
+- [x] Color picker kullanımı
+- [x] Renk paleti kullanımı https://colorhunt.co/
+- [x] Inline CSS ile stillendirme (color, background) , font-size
 - [ ] HTML formatmala etiketleri (strong, em, mark, small, *pre*) https://www.w3schools.com/html html_formatting.asp
 - [ ] HTML link verme (html dosyalarına ve web sitelerine) (<a> etiketi) https://www.w3schools.com/html/html_links.asp
 - [ ] Görsel ekleme (alt, width ve height parametreleri ; <a> etiketi içerisine image ekleme) https://www.w3schools.com/html/html_images.asp
