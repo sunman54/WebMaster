@@ -8,14 +8,14 @@
 - [x] *live server* , *HTML CSS Support* , *Auto Rename Tag* , *Prettier - Code formatter*
 
 ## 2- HTML 1
-- [ ] HTML nedir ? 
-- [ ] İlk Web sitesi : http://info.cern.ch/hypertext/WWW/TheProject.html
-- [ ] Geliştirici araçları ve sitenin editlenebilmesi
-- [ ] HTML dosyalarının düzeni (head - body ....)
-- [ ] HTML dosyası oluşturma ve live server ile görüntüleme (live server eklentisinin görevi)
-- [ ] Meta etikletleri ve yorum satırları
-- [ ] Başlık etiketleri H1 H2 ...
-- [ ] Paragraf etiketi ve lorem ipsum ...
+- [x] HTML nedir ? 
+- [x] İlk Web sitesi : http://info.cern.ch/hypertext/WWW/TheProject.html
+- [x] Geliştirici araçları ve sitenin editlenebilmesi
+- [x] HTML dosyalarının düzeni (head - body ....)
+- [x] HTML dosyası oluşturma ve live server ile görüntüleme (live server eklentisinin görevi)
+- [x] Meta etikletleri ve yorum satırları
+- [x] Başlık etiketleri H1 H2 ...
+- [x] Paragraf etiketi ve lorem ipsum ...
 - [ ] RGB nedir ?
 - [ ] Color picker kullanımı
 - [ ] Renk paleti kullanımı https://colorhunt.co/
