@@ -22,7 +22,7 @@
 - [x] Inline CSS ile stillendirme (color, background, font-size)
 - [x] HTML formatmala etiketleri (strong, em, mark, small, *pre*) https://www.w3schools.com/html html_formatting.asp
 - [x] HTML link verme (html dosyalarına ve web sitelerine) (<a> etiketi) https://www.w3schools.com/html/html_links.asp
-- [ ] Görsel ekleme (alt, width ve height parametreleri ; <a> etiketi içerisine image ekleme) https://www.w3schools.com/html/html_images.asp
+- [x] Görsel ekleme (alt, width ve height parametreleri ; <a> etiketi içerisine image ekleme) https://www.w3schools.com/html/html_images.asp
 - [ ] HTML tabloları https://www.w3schools.com/html/html_tables.asp
 - [ ] Listeler (iç içe listeler) https://www.w3schools.com/html/html_lists.asp
 - [ ] Video etiketi https://www.w3schools.com/html/html5_video.asp
