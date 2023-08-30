@@ -1,0 +1,29 @@
+#div7 {
+    color: darkorchid;
+    background-color: salmon;
+    width: 120px; 
+    height: 120px;
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+    margin: 5px;
+}
+
+#div8 {
+    color: rgb(49, 22, 63);
+    background-color: rgb(50, 214, 219);
+    width: 120px;
+    height: 120px;
+    text-align: center;
+    border: 2px dotted rgb(0, 0, 0);
+    margin: 5px;
+}
+
+.kırmızı_div{
+    color: white;
+    background-color: rgb(163, 0, 0);
+    width: 120px;
+    height: 120px;
+    text-align: center;
+    border: 2px solid  rgb(0, 255, 55);
+    margin: 5px;
+}
