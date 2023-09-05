@@ -1,0 +1,93 @@
+.kutu1 {
+    color: aqua;
+    background-color: blueviolet;
+    width: 120px;
+    height: 120px;
+    margin: 10px;
+    border: black solid 2px;
+    padding: 20px ;
+}
+
+.kutu1 p {
+    color: rgb(255, 255, 255);
+    margin: 0px;
+    width: 50%;
+}
+
+.kutu2 {
+    color: rgb(0, 0, 0);
+    background-color: rgb(43, 226, 125);
+    width: 120px;
+    height: 120px;
+    text-align: center;
+    margin: 20px 30px 40px 50px; 
+    border: black double 10px;
+    padding: 20px;
+}
+
+.kutu2 p {
+    color: rgb(255, 255, 255);
+    margin: 0;
+    width: 50%;
+}
+
+.kutu3 {
+    color: rgb(0, 0, 0);
+    background-color: rgb(226, 43, 43);
+    width: 120px;
+    height: 120px;
+    text-align: center;
+    margin: 100px 50px;
+    border: rgb(98, 0, 255) groove 8px;
+    padding: 20px;
+}
+
+.kutu3 p {
+    color: rgb(255, 255, 255);
+    margin: 0;
+    width: 50%;
+}
+
+.yatay {
+    display: inline-block;
+}
+
+
+.yatay-list {
+    list-style: none;
+    padding: 0;
+    margin: 10px 10px;
+    display: flex;
+    
+    /* Display the list items in a horizontal row */
+}
+
+.horizontal-list li {
+    margin-right: 10px;
+    /* Add spacing between list items (adjust as needed) */
+}
+
+body {
+    background: rgb(131, 58, 180);
+    background: linear-gradient(90deg, rgb(58, 180, 78) 0%, rgb(29, 238, 253) 50%, rgb(252, 142, 69)100%);
+}
+
+
+
+.makale {
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.3);
+    color: aliceblue;
+}
+
+.makale-2 {
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: aliceblue;
+}
