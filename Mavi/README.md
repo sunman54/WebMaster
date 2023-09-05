@@ -35,20 +35,20 @@
 - [ ] Form ve Input elementleri (form verilerini bir text dosyasına dönüştüren js kodları verilebilir)https://www.w3schools.com/html/html_forms.asp
 
 ## 4- CSS 1
-- [ ] CSS nedir ?
-- [ ] Kullanma yöntemleri (inline, header sytle etiketi, css dosyası)
-- [ ] Elementleri seçme
-- [ ] CSS hiyerarşisi (important anahtarı)
-- [ ] width, height, color, background(color-image) ... özellikleri 
-- [ ] border ve radius özellikleri https://www.w3schools.com/css/css_border.asp
+- [x] CSS nedir ?
+- [x] Kullanma yöntemleri (inline, header sytle etiketi, css dosyası)
+- [x] Elementleri seçme
+- [x] CSS hiyerarşisi (important anahtarı)
+- [x] width, height, color, background(color-image) ... özellikleri 
+- [x] border ve radius özellikleri https://www.w3schools.com/css/css_border.asp
 
 
 ## 5- CSS 2
 - [ ] width ve height değerileri ve kullanımları  (px em rm ve % ile ...)
-- [ ] display anahtarı ve block, inline, inline-block değerleri
-- [ ] Developer tools üzerinde elementlerin incelenmesi,
+- [x] display anahtarı ve block, inline, inline-block değerleri
+- [x] Developer tools üzerinde elementlerin incelenmesi,
 - [ ] Tarayıcıların otomatik atadığı özellikler ve reset CSS yazma
-- [ ] Margin özelliği (değerler saat yönünde üst sağ alt sol) (margin outo ile elementi ortalama)
-- [ ] Padding ve box-sizing özelliği
+- [x] Margin özelliği (değerler saat yönünde üst sağ alt sol) (margin outo ile elementi ortalama)
+- [x] Padding ve box-sizing özelliği
 - [ ] Text etiketleri : text-align, text-family (https://fonts.google.com/), font-size, font-style, font-weight, line-height
 - [ ] %, em, rem, vw, vh değerleri https://www.w3schools.com/css/css_units.asp
