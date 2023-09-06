@@ -1,0 +1,26 @@
+body {
+    background: rgb(82, 152, 255);
+        background: linear-gradient(90deg, rgba(82, 152, 255, 1) 0%, rgba(255, 255, 255, 1) 50%, rgba(82, 152, 255, 1) 100%);
+}
+
+h1 {
+    text-align: center;
+}
+
+.makale {
+    color: rgb(247, 247, 247);
+    background: rgb(13, 0, 255);
+    background: linear-gradient(90deg, rgba(13, 0, 255, 1) 0%, rgba(82, 152, 255, 1) 54%, rgba(0, 22, 255, 1) 100%);
+    width: 80%;
+    height: auto;
+    border-radius: 15px;
+    margin: 35px auto ;
+    padding: 3px;
+}
+
+.makale h2 {
+
+    color: #ffc5c5;
+    text-align: center;
+}
+
