@@ -1,0 +1,113 @@
+body{
+    background-color: cadetblue;
+}
+
+
+h1{
+    color: blue;
+    
+}
+
+
+
+.buton{
+
+    padding: 5px;
+
+    border: 1px solid ;
+
+    border-radius: 5px;
+
+    color: rgb(255, 255, 255);
+
+    background-color: rgb(19, 117, 68);
+
+    display: inline-block;
+}
+
+.buton:hover{
+    background-color: rgb(50, 211, 99);
+    cursor: pointer;
+}
+
+.buton:active{
+    color: black;
+    background-color: floralwhite;
+    cursor: pointer;
+
+}
+
+
+
+
+button{
+    background-color: rgba(255, 238, 238, 0);
+}
+
+
+
+
+.kutu1 {
+    background-color: blueviolet;
+    width: 120px;
+    height: 120px;
+    margin: 10px;
+    text-align: center;
+    border: 3px solid;}
+
+.kutu1 p {
+    color: rgb(255, 255, 255);
+    margin: 0px;
+    width: 50%;
+}
+
+.kutu2 {
+    color: rgb(0, 0, 0);
+    background-color: rgb(43, 226, 125);
+    width: 120px;
+    height: 120px;
+    text-align: center;
+    margin: 10px;
+    border: 3px solid;}
+
+.kutu2 p {
+    color: rgb(255, 255, 255);
+    margin: 0;
+    width: 50%;
+}
+
+.kutu3 {
+    color: rgb(0, 0, 0);
+    background-color: rgb(226, 43, 43);
+    width: 120px;
+    height: 120px;
+    text-align: center;
+    margin: 10px;
+    border: 3px solid;
+}
+
+.kutu3 p {
+    color: rgb(255, 255, 255);
+    margin: 0;
+    width: 50%;
+}
+
+
+.container-1 {
+    background-color: rgba(0, 0, 0, 0.438);
+    margin: 0 auto;
+    width: 75%;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}
+
+
+.container-2 {
+    background-color: rgba(0, 0, 0, 0.438);
+    margin: 0 auto;
+    width: 75%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}

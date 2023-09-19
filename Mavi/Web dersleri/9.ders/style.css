@@ -88,6 +88,12 @@ body {
     height: auto;
     margin: 0 auto;
     text-align: center;
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.705);
     color: aliceblue;
+}
+
+
+
+#daire {
+    border-radius: 120px;
 }
