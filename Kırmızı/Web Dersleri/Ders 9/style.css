@@ -1,0 +1,45 @@
+.yeni_tus {
+    border: 2px rgb(25, 98, 255) solid;
+    width: 100px;
+    border-radius: 5px;
+    margin: 5px;
+    text-align: center;
+    display: inline-block;
+    background-color: rgb(5, 5, 209);
+    color: aliceblue;
+}
+
+.yeni_tus:hover {
+    background-color: aqua;
+    color: black;
+    cursor: pointer;
+}
+
+.yeni_tus:active {
+    background-color: rgb(9, 255, 1);
+    color: black;
+    border: 2px rgb(0, 0, 0) solid;
+    box-shadow: 5px inset;
+    cursor: pointer;
+}
+
+
+.container{
+    background-color:aqua ;
+    height: 150px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+.kutu{
+    width: 120px;
+    height: 120px;
+    background-color: antiquewhite;
+    text-align: center;
+
+}
+
+body{
+    background-color: rgb(89, 0, 255);
+}
