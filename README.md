@@ -58,6 +58,7 @@
 - [ ] container mantığı
 - [ ] primary, danger, dark renk classları
 - [ ] mobil uyumluluk (google örneği)
-- [ ] row ve colum kullanımı, 12 parça mantığı
+- [ ] row ve colum kullanımı, 12 parça mantığı (col-md ile alt alta colunmlar)
 - [ ] allign-items-center ve justify-content-center ile nesneleri konumlandırma
-- [ ] css margin padding (p-1 p-4 pl-1 pr-4 px-2 py-3) /  (m-1 m-4 ml-1 mr-4 mx-2 my-3)
+- [ ] bootstrap margin padding (p-1 p-4 pl-1 pr-4 px-2 py-3) /  (m-1 m-4 ml-1 mr-4 mx-2 my-3)
+- [ ] cards class'ı (card-header, body, footer, title, image)
