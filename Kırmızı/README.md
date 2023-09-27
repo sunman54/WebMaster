@@ -52,3 +52,15 @@
 - [ ] Padding ve box-sizing özelliği
 - [ ] Text etiketleri : text-align, text-family (https://fonts.google.com/), font-size, font-style, font-weight, line-height
 - [ ] %, em, rem, vw, vh değerleri https://www.w3schools.com/css/css_units.asp
+
+
+## 6- Bootstrap
+- [ ] bootstrap nedir
+- [ ] nasıl yüklenir
+- [ ] container mantığı
+- [ ] primary, danger, dark renk classları
+- [ ] mobil uyumluluk (google örneği) - (col-sm)
+- [ ] row ve colum kullanımı, 12 parça mantığı (col-md ile alt alta colunmlar)
+- [ ] allign-items-center(dikey) ve justify-content-center(yatay) ile nesneleri konumlandırma
+- [ ] bootstrap margin padding (p-1 p-4 pl-1 pr-4 px-2 py-3) /  (m-1 m-4 ml-1 mr-4 mx-2 my-3)
+- [ ] cards class'ı (card-header, body, footer, title, image)
