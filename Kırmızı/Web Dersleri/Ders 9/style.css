@@ -10,13 +10,14 @@
 }
 
 .yeni_tus:hover {
-    background-color: aqua;
+    background-color: rgb(39, 169, 255);
+    border: 2px rgb(18, 52, 128) solid;
     color: black;
     cursor: pointer;
 }
 
 .yeni_tus:active {
-    background-color: rgb(9, 255, 1);
+    background-color: rgb(245, 91, 91);
     color: black;
     border: 2px rgb(0, 0, 0) solid;
     box-shadow: 5px inset;
@@ -41,5 +42,5 @@
 }
 
 body{
-    background-color: rgb(89, 0, 255);
+    background-color: rgb(122, 111, 47);
 }
